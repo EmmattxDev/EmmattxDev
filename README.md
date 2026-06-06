@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![EmmattxDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmattxDev&show_icons=true&theme=radical)
-![Twitter Follow](https://img.shields.io/twitter/follow/emmachukwuka_01?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/theEmmaChukwuka?style=social)
